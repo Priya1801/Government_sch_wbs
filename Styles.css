@@ -1,0 +1,114 @@
+#title {
+  /* padding: 2% 2% 0% 2%; */
+  position: fixed;
+  z-index: 1;
+}
+
+body {
+  background: rgb(192,192,192);
+  background: radial-gradient(circle, rgba(192,192,192,1) 0%, rgba(189,232,231,1) 100%);
+  /* background-image: linear-gradient(to bottom, #ffffff, #dcfcff, #91ffff, #80ffcc, #dfe6ed); */
+  /* background-image: linear-gradient(to bottom, #ffffff, #cdc4e4, #a389c5, #7e4fa2, #5d007c); */
+}
+
+#home-title {
+  /* background-color:  #dfe6ed; */
+  padding: 12% 2% 5% 2%;
+}
+
+#Faculty {
+  /* background-color:  #dfe6ed; */
+  /* padding: 10% 5%; */
+  padding-top: 5%;
+  padding-bottom: 7%;
+  text-align: center;
+}
+
+#Gallery-section {
+  /* padding: 12%; */
+  text-align: center;
+}
+
+h6 {
+  margin-left:100px ;
+}
+
+.first-text {
+  padding-top: 15%;
+  padding-left: 15%;
+  font-family: 'Vollkorn', serif;
+}
+
+.img1 {
+ margin-left: 28%;
+}
+
+.Contact-tab {
+ text-align: center;
+}
+.First-hr{
+  border-style: none;
+  border-top-style: line;
+  border-color :black;
+  border-width: 5px;
+  width: 5%;
+  margin-left: 48%;
+}
+
+.Teachers{
+  padding-top: 3%;
+}
+
+.Facilities{
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.t1{
+  margin-left: 15%;
+}
+
+.t2{
+  margin-left: 19.5%;
+}
+
+.t3{
+  margin-left: 12.5%;
+}
+
+.t4{
+  margin-left: 11.5%;
+}
+
+.t5{
+  margin-left: 39%;
+}
+
+.t6{
+  margin-left: 34.5%;
+}
+
+.Contact{
+  text-align: center;
+}
+
+.gallary2{
+  text-align: center;
+  /* padding-bottom: 2%; */
+}
+
+footer {
+  text-align: center;
+  /* padding: 3px; */
+  /* background-color: DarkSalmon;
+  color: white; */
+}
+.second-hr{
+  /* padding-top: 1%; */
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+
+
